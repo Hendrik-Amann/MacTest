@@ -47,6 +47,7 @@ namespace LinkedList01
 
             l.pop();
             l.Print();
+            Console.WriteLine("test");
 
 
             Console.ReadLine();
